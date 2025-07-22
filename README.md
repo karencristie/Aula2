@@ -1,2 +1,2 @@
 # Aula2
-Atividades realizadas na 2ª aula de  python no curso SENAC
+Inicio, Doc strig, comentário, separadores, tipos de dados, simbolo de igual e diferente , criação de variável, pular linha.
